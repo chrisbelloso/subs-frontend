@@ -1,0 +1,10 @@
+.NavTitle {
+  margin-left: 15px !important;
+}
+
+.navbar-light .navbar-brand {
+  color: aqua !important;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+}
